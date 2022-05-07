@@ -4,4 +4,6 @@ NAV 导航：[LICENSE 授权](LICENSE.md) · [Download 下载](https://github.co
 k8x12j is a font based on [k8x12](https://littlelimit.net/k8x12.htm). Some glyph is based on [Guanzhi](https://www.maoken.com/freefonts/11358.html).  
 k8x12j 是一个基于 [k8x12](https://littlelimit.net/k8x12.htm) 的字体。一些字形基于[观致](https://www.maoken.com/freefonts/11358.html)改造。
 
+> **请注意：该字体只有少数字形（包括 JIS 第一、二水准汉字；一年级上册语文教科书识字表的字）是8x12，其余的皆为8x8**
+
 Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpicas).
