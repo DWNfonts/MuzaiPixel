@@ -1,4 +1,6 @@
 # k8x12j
+NAV 导航：[LICENSE 授权](LICENSE.md)·[Download 下载](https://github.com/diaowinner/k8x12j/releases)
+
 k8x12j is a font based on [k8x12](https://littlelimit.net/k8x12.htm). Some glyph is based on [Guanzhi](https://www.maoken.com/freefonts/11358.html).  
 k8x12j 是一个基于 [k8x12](https://littlelimit.net/k8x12.htm) 的字体。一些字形基于[观致](https://www.maoken.com/freefonts/11358.html)改造。
 
