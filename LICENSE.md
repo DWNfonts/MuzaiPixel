@@ -8,4 +8,4 @@ Unlimited permission is granted to use, copy, and distribute them, with or witho
 THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 这些字体是自由软件。
-您可以自由使用、复制和重新分发，无论是否进行任何修改或用于商业用途，但我们不作任何担保。
+您可以自由使用、复制和重新分发，无论是否进行任何修改或用于商业用途。这些字体 “按原样” 提供，不做担保。
