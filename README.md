@@ -21,5 +21,5 @@ Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpic
 > It just used the [sample](https://www.type-labo.jp/Kumimihon.html) of k8x12S.
 
 ![Sample in Japanese](/docs/Screenshot_JP.png)
-### Shitty Chinese 残体中文
-![Sample in Shitty Chinese](/docs/Screenshot_CHS.png)
+### Simplified Chinese 简体中文
+![Sample in Simplified Chinese](/docs/Screenshot_CHS.png)
