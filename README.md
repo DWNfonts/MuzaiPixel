@@ -9,9 +9,9 @@ k8x12j 是一个基于 [k8x12](https://littlelimit.net/k8x12.htm) 的 8x12 中�
 Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpicas), [FontForge](http://fontforge.org).
 ## Roadmap 道路
 * 覆盖观致字形 | Cover Guanzhi glyphs
-* 覆盖精品点阵体字形 | Cover BontiqueBitmap glyphs
 * 重新打底本，基于 k8x12S | Rebuild to k8x12S
-* 覆盖 CJKUI | Cover all CJKUI
+* 覆盖精品点阵体字形 | Cover BontiqueBitmap glyphs
+* 覆盖 Unicode 中日韩统一表意文字基本集区域 | Cover all U+4E00 - U+9FFF glyphs
 ## Samples 示例
 > 这个截图直接使用了 k8x12S 的示例[《問わずがたりの洋酒外史》](https://www.type-labo.jp/Kumimihon.html)。汉语示例带正式版出来再发布。  
 > It just used the [sample](https://www.type-labo.jp/Kumimihon.html) of k8x12S. Waiting for the Chinese sample until It finished.
