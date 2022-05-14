@@ -1,5 +1,5 @@
 # LICENSE 授权
-[< 返回 Back](../README.md)
+[< 返回 Back](./README.md)
 
 版权所有 Copyright © 2015-2021 Num Kadoma, 2009 Lietxia, 2022 diaowinner.
 
