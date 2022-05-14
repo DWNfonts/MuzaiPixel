@@ -1,8 +1,8 @@
 # k8x12j - k8x12 补简计划 | k8x12 with Simp. Chinese support 
 NAV 导航：[LICENSE 授权](LICENSE.md) · [Download 下载](https://github.com/diaowinner/k8x12j/releases) · [Documents 文档](/docs/README.md)
 ## Overview 概况
-k8x12j is a 8x12 Chinese and Japanese bitmap (pixel) font based on [k8x12](https://littlelimit.net/k8x12.htm). Some glyph is based on [Guanzhi](https://www.maoken.com/freefonts/11358.html).  
-k8x12j 是一个基于 [k8x12](https://littlelimit.net/k8x12.htm) 的 8x12 中日文点阵（像素）字体。一些字形基于[观致](https://www.maoken.com/freefonts/11358.html)改造。
+k8x12j is a 8x12 Chinese and Japanese bitmap (pixel) font based on [k8x12S](https://littlelimit.net/k8x12.htm#sample_k8x12S). Some glyph is based on Guanzhi ([mirror](https://www.maoken.com/freefonts/11358.html)).  
+k8x12j 是一个基于 [k8x12S](https://littlelimit.net/k8x12.htm#sample_k8x12S) 的 8x12 中日文点阵（像素）字体。一些字形基于观致（仅存在[备份](https://www.maoken.com/freefonts/11358.html)）改造。
 
 If you like it, you can [donate](/docs/donate.md) me.  
 如果你喜欢，你可以给我[要个饭](/docs/donate.md)。
