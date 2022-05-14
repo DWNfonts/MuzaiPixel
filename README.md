@@ -1,4 +1,4 @@
-# k8x12j
+# k8x12j - k8x12 补简计划 | k8x12 with Simp. Chinese support 
 NAV 导航：[LICENSE 授权](LICENSE.md) · [Download 下载](https://github.com/diaowinner/k8x12j/releases) · [Documents 文档](/docs/README.md)
 ## Overview 概况
 k8x12j is a 8x12 Chinese and Japanese bitmap (pixel) font based on [k8x12](https://littlelimit.net/k8x12.htm). Some glyph is based on [Guanzhi](https://www.maoken.com/freefonts/11358.html).  
