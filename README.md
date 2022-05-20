@@ -26,6 +26,7 @@ Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpic
 同时：
 1. 增加符号
 2. 修改笔画规范
+3. 补全谚文音节
 ## Samples 示例
 ### Japanese 日语
 > 这个截图直接使用了 k8x12 的示例[《問わずがたりの洋酒外史》](https://www.type-labo.jp/Kumimihon.html)。  
