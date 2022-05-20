@@ -12,6 +12,16 @@ If you like it, you can [donate](/docs/donate.md) me.
 
 Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpicas), [FontForge](http://fontforge.org).
 ## Roadmap 道路
+1. 《现代汉语常用字表》常用字
+2. 《现代汉语常用字表》次常用字
+3. 国标、《通规》第一水准
+4. 《现代汉语通用字表》
+5. 国标、《通规》第二水准
+6. 《通规》第三水准
+7. 国标繁体
+8. 大五码
+9. GBK
+10. 拡张A
 ## Samples 示例
 ### Japanese 日语
 > 这个截图直接使用了 k8x12S 的示例[《問わずがたりの洋酒外史》](https://www.type-labo.jp/Kumimihon.html)。  
