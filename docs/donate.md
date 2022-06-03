@@ -1,4 +1,5 @@
 # Donate 捐赠
 [< 返回 Back](../README.md)
 
-暂时无捐赠方式。There's no way to donate.
+## 通过平台
+[爱发电](https://afdian.net/@k8x12j)
