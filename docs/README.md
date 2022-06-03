@@ -5,3 +5,4 @@
 There are documents except [README](../README.md) and [LICENSE](../LICENSE.md).
 * [Donate 捐赠](donate.md)
 * [PUA 范围 PUA Range](pua.md)
+* [k8x12j 目前的道路 Roadmap for now](MissingChar.md)（大的 Roadmap 放在了 Readme 文件上）
