@@ -7,4 +7,4 @@
 ## 收款码
 | 微信 | 支付宝 |
 |---|---|
-|![微信](WeChatPay.png)|![支付宝](AliPay.png)|
+|![微信](WeChatPay.png)|![支付宝](AliPay.jpg)|
