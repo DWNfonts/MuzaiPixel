@@ -34,5 +34,5 @@ Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpic
 > It just used the [sample](https://www.type-labo.jp/Kumimihon.html) of k8x12.
 
 ![Sample in Japanese](/docs/Screenshot_JP.png)
-### Simplified Chinese 简体中文（重启前）
+### Simplified Chinese 简体中文
 ![Sample in Simplified Chinese](/docs/Screenshot_CHS.png)
