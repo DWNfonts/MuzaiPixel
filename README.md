@@ -36,3 +36,6 @@ Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpic
 ![Sample in Japanese](/docs/Screenshot_JP.png)
 ### Simplified Chinese 简体中文
 ![Sample in Simplified Chinese](/docs/Screenshot_CHS.png)
+
+### Other languages 其他语种
+![Sample in Simplified Chinese](/docs/Greek.png)
