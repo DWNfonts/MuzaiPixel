@@ -1,6 +1,7 @@
 # k8x12j - k8x12 补简计划 | k8x12 with Simp. Chinese support 
 NAV 导航：[LICENSE 授权](LICENSE.md) · [Download 下载](https://github.com/diaowinner/k8x12j/releases) · [Documents 文档](/docs/README.md)  
-本项目重启了！Reset! [Pre-Reloaded Version 重启前的版本](https://github.com/diaowinner/k8x12j/tree/d4da995ecf77e1aa2d73c202f1860252973fd99d)。
+建议在 **[GitHub 主站](https://github.com/diaowinner/k8x12j)** 或 QQ 群（群号：619164913）发布工单等。下载时候可以使用镜像：[Gitee](https://gitee.com/diaowinner/k8x12j)（需要登录）。  
+Recommend to report issues on **[main GitHub site](https://github.com/diaowinner/k8x12j)** or QQ group. When downloading, there's a [Gitee](https://gitee.com/diaowinner/k8x12j) link (login required).
 ## Overview 概况
 k8x12j is a 8x12 Chinese and Japanese bitmap (pixel) font based on [k8x12](https://littlelimit.net/k8x12.htm#sample_k8x12). ~~A lot of~~ Some glyphs are inspired by [ZPix Font](https://zpix.vercel.app/). Thanks to that.  
 k8x12j 是一个基于 [k8x12](https://littlelimit.net/k8x12.htm#sample_k8x12) 的 8x12 中日文点阵（像素）字体。~~亿~~一些字形、部件参考了[最像素](https://zpix.vercel.app/)。对此表示感谢。
@@ -33,5 +34,5 @@ Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpic
 > It just used the [sample](https://www.type-labo.jp/Kumimihon.html) of k8x12.
 
 ![Sample in Japanese](/docs/Screenshot_JP.png)
-### Simplified Chinese 简体中文（重启前）
+### Simplified Chinese 简体中文
 ![Sample in Simplified Chinese](/docs/Screenshot_CHS.png)
