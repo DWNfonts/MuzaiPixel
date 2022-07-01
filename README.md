@@ -13,21 +13,17 @@ If you like it, you can see the [Donate](/docs/donate.md) page.
 
 Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpicas), [FontForge](http://fontforge.org).
 ## Roadmap 道路
-1. 《现代汉语常用字表》常用字
-2. 《现代汉语常用字表》次常用字
-3. 国标、《通规》第一水准
-4. 《现代汉语通用字表》
-5. 国标、《通规》第二水准
-6. 《通规》第三水准
-7. 国标繁体
-8. 大五码
-9. GBK
-10. 拡张A
+1. 做完 SteveXMH 提供的急用字 1118 个
+2. 做完《现代汉语常用字表》
+3. 做完国标、通规一级汉字
+4. 做完《现代汉语通用字表》
+5. 做完国标、通规二级汉字
+6. 做完通规三级汉字
 
 同时：
-1. 增加符号
-2. 修改笔画规范
-3. 补全谚文音节
+1. 增加制表符
+2. ~~修改笔画规范~~ 耗费精力，以后决定。
+3. ~~补全谚文音节~~ 由于k8x12j已经定为简体中文字体，不补全。
 ## Samples 示例
 ### Japanese 日语
 > 这个截图直接使用了 k8x12 的示例[《問わずがたりの洋酒外史》](https://www.type-labo.jp/Kumimihon.html)。  
