@@ -21,9 +21,9 @@ Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpic
 6. 做完通规三级汉字
 
 同时：
-1. 增加制表符
+1. ~~增加制表符~~ 已经添加。
 2. ~~修改笔画规范~~ 耗费精力，以后决定。
-3. ~~补全谚文音节~~ 由于k8x12j已经定为简体中文字体，不补全。
+3. ~~补全谚文音节及繁体字，甚至做到扩张 A~~ 由于k8x12j已经定为简体中文字体，不补全。
 ## Samples 示例
 ### Japanese 日语
 > 这个截图直接使用了 k8x12 的示例[《問わずがたりの洋酒外史》](https://www.type-labo.jp/Kumimihon.html)。  
