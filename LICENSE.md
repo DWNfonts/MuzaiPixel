@@ -1,7 +1,7 @@
 # LICENSE 授权
 [< 返回 Back](./README.md)
 
-版权所有 Copyright © 2015-2021 Num Kadoma, 2009 Lietxia, 2022 diaowinner.
+版权所有 Copyright © 2015-2021 Num Kadoma, 2022 diaowinner.
 
 These fonts are free software.
 Unlimited permission is granted to use, copy, and distribute them, with or without modification, either commercially or noncommercially.
