@@ -9,4 +9,4 @@ There are documents except [README](../README.md) and [LICENSE](../LICENSE.md).
 ## 备忘录 Notes
 存有一些备忘的东西。可能只有中文。Some note stuff. Maybe it only has Chinese.
 * [PUA 范围 PUA Range](pua.md)
-* [k8x12j 目前的道路 Roadmap for now](MissingChar.md)（大的 Roadmap 放在了 Readme 文件上 larger on Readme file）
+* [目前的道路 Roadmap for now](MissingChar.md)（大的 Roadmap 放在了 Readme 文件上 larger on Readme file）
