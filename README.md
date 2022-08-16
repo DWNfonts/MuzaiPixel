@@ -11,7 +11,7 @@ If you like it, you can see the [Donate](/docs/donate.md) page.
 > **请注意：该字体只有少数字形（包括 JIS 第一、二水准汉字，来自原 k8x12 字体；以及部分《现代汉语常用字表》的汉字）。  
 > CAUTION: This font only has few glyphs containing the JIS Kanji level 1 and 2 (from k8x12), and some glyphs in Xiandai Hanyu Changyong Zibiao.**
 
-Tool used: 使用工具：[Bits'n'Picas](http://github.com/kreativekorp/bitsnpicas), [FontForge](http://fontforge.org).
+Tool used: 使用工具：[Bits'n'Picas 2.0](http://github.com/kreativekorp/bitsnpicas), [FontForge](http://fontforge.org).
 ## Roadmap 道路
 1. 做完 SteveXMH 提供的急用字 1118 个
 2. 做完《现代汉语常用字表》
