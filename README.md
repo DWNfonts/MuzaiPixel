@@ -13,7 +13,7 @@ If you like it, you can see the [Donate](/docs/donate.md) page.
 
 Tool used: 使用工具：[Bits'n'Picas 2.0](http://github.com/kreativekorp/bitsnpicas), [FontForge](http://fontforge.org).
 ## Roadmap 道路
-1. 做完 SteveXMH 提供的急用字 1118 个
+1. ~~做完 SteveXMH 提供的急用字 1118 个~~
 2. 做完《现代汉语常用字表》
 3. 做完国标、通规一级汉字
 4. 做完《现代汉语通用字表》
