@@ -13,7 +13,7 @@
 <name id="2" value="Regular"/>
 <name id="3" value="BitsNPicas: MuzaiPixel: 2022"/>
 <name id="4" value="MuzaiPixel"/>
-<name id="5" value="RC1 Beta Rev. 6 but very hotfix! (0.9.6a)"/>
+<name id="5" value="RC1 Beta Rev. 6 more perfect (0.9.6b)"/>
 <name id="6" value="MuzaiPixel"/>
 <name id="7" value="No Trademark."/>
 <name id="8" value="Made with Bits&#39;n&#39;Picas by Kreative Software. Importing by FontForge."/>
@@ -1792,7 +1792,7 @@
 <g u="21734" x="0" y="10" w="8" d="CwcEQgFEAUTFAP8A/wBJxQD/AP8AQsUA/wD/AEIBQwFEAUIDw/8A/wTD/wD/A0ICQQ"/>
 <g u="21736" x="0" y="10" w="8" d="CwcDQgFEwwD/AELEAP8A/wLC/wBGAUICQgFGAUICSANBAkEDQQJBA8L/AEI"/>
 <g u="21737" x="0" y="10" w="8" d="CwcCSMMA/wBCAUbFAP8A/wBCxQD/AP8AQgFGxAD/AP8CRgVBBkEERQ"/>
-<g u="21738" x="0" y="10" w="8" d="CwcCRwFGAUoBQgFGAU0BRANDBEMDwv8AQgE"/>
+<g u="21738" x="0" y="10" w="8" d="CwcCR8MA/wBEwwD/AEgBQsMA/wBEwwD/AEvDAP8AQgPD/wD/BMP/AP8Dwv8AQgE"/>
 <g u="21741" x="0" y="10" w="8" d="CwdDAUTFAP8A/wBCxQD/AP8ARAFDA0EGxP8A/wBHA0EFw/8A/wNBA8P/AP8FQQ"/>
 <g u="21742" x="0" y="10" w="8" d="CwcEwv8AQwFDAUICQQJJwgD/A0MBQgFCA8L/AEcEQQZBBUIC"/>
 <g u="21746" x="0" y="10" w="8" d="CwfCAP8Dwv8AQgFCA8P/AP8Ewv8ARsQA/wD/AkICQQJBA0ECRQJBA0ECQQNBAkUB"/>
@@ -5040,7 +5040,7 @@
 <g u="31499" x="0" y="10" w="8" d="CwfCAP8CQQNCAUQBQsIA/wfC/wBFBMT/AP8ARwPD/wD/AkUEQQRCBA"/>
 <g u="31503" x="0" y="10" w="8" d="CwfCAP8CQQNCAUQBQsIA/wJBBkfGAP8A/wD/Asf/AP8A/wD/AsL/AEICQQJBAkEDQQRCAQ"/>
 <g u="31505" x="0" y="10" w="8" d="CwfCAP8CQQNCAUQBQsIA/wVBA0MGQQNHA0EFw/8A/wNBA8P/AP8FQQ"/>
-<g u="31508" x="0" y="10" w="8" d="CwfCAP8CQQNCAUQBQsIA/wVBA0MDRwNBBEUBRwNBBkQ"/>
+<g u="31508" x="0" y="10" w="8" d="CwfCAP8CQQNCAUQBQsIA/wVBA0MGQQNHA0EDRwNBBkQ"/>
 <g u="31512" x="0" y="10" w="8" d="CwfCAP8CQQNCAUQBQsIA/wRBBkMEQQZBBEUCQQNBAkEDQQJFAQ"/>
 <g u="31513" x="0" y="10" w="8" d="CwfCAP8CQQNCAUQBQsIA/wRBBMP/AP8ERcIA/wJBBEUEQQZBA0c"/>
 <g u="31515" x="0" y="10" w="8" d="CwfCAP8CQQNCAUQBQsIA/wRBBEUCxf8A/wD/AsX/AP8A/wJFAsX/AP8A/wLF/wD/AP8CRQE"/>
@@ -5998,7 +5998,7 @@
 <g u="34381" x="0" y="10" w="8" d="CwcEQQZDBEEDRsIA/wTF/wD/AP8ExP8A/wBCAUQDw/8A/wTD/wD/AkICRA"/>
 <g u="34382" x="0" y="10" w="8" d="CwcEQQZDBEEDRsQA/wD/AsT/AP8AQwJBBsX/AP8A/wLF/wD/AP8Cyf8A/wD/AP8A/wJC"/>
 <g u="34384" x="0" y="10" w="8" d="CwcEQQZDBEEDRsIA/wJBA0ECQ8MA/wBExAD/AP8Ewv8ARMQA/wD/A0ECRA"/>
-<g u="34385" x="-9" y="10" w="8" d="CxANQQ9DDUEMRgFCB8P/AP8CQwFCBcL/AEMBRQVBD0EPwv8AQgxDAUIJwv8ARQ"/>
+<g u="34385" x="0" y="10" w="8" d="CwcEQQZDBEEDRsQA/wD/AsT/AP8AQwJBBkEGwv8AQgNDAUMBRQ"/>
 <g u="34388" x="0" y="10" w="8" d="CwcEQQZDBEEDRsQA/wD/AsT/AP8AQwJBAkEDRsYA/wD/AP8CQQJBAsL/AEIBQg"/>
 <g u="34389" x="0" y="10" w="8" d="CwcEQQZDBEEDRsQA/wD/AsT/AP8AQwLD/wD/BML/AEQBQsgA/wD/AP8A/wPE/wD/AEM"/>
 <g u="34394" x="0" y="10" w="8" d="CwcEQQZDBEEDRsQA/wD/AsT/AP8AQwJBBsX/AP8A/wJDAULJAP8A/wD/AP8ARQ"/>
@@ -8088,4 +8088,5 @@
 <g u="65508" x="3" y="10" w="8" d="CwFFAUU"/>
 <g u="65509" x="0" y="9" w="8" d="CQdBBcP/AP8DQQJBA0EDw/8A/wJHA0EDRwNBBkED"/>
 <g n=".notdef" x="0" y="10" w="8" d="DAgHQgFDAUMFRMMA/wBDB0MBQgFDwgD/BEECQwFDxQD/AP8AQwFDAUMBQgJK"/>
+<g n=".null" x="0" y="0" w="0" d="AAA"/>
 </kbits>
