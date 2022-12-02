@@ -2,8 +2,8 @@
 > [*Muzai Pixel is a DWNfonts project.*](https://github.com/DWNfonts)
 
 NAV 导航：[LICENSE 授权](LICENSE.md) · [Download 下载](https://github.com/DWNfonts/MuzaiPixel/releases) · [Documents 文档](/docs/README.md)  
-建议在 **[GitHub 主站](https://github.com/DWNfonts/MuzaiPixel)** 或 QQ 群（群号：619164913）发布工单等。下载时候可以使用镜像：[Gitee](https://gitee.com/diaowinner/MuzaiPixel)（最近几次总是同步失败，正在努力抢修！）。  
-Recommend to report issues on **[main GitHub site](https://github.com/DWNfonts/MuzaiPixel)** or QQ group. When downloading, there's a [Gitee](https://gitee.com/diaowinner/MuzaiPixel) link (always sync failed, fixing).
+建议在 **[GitHub 主站](https://github.com/DWNfonts/MuzaiPixel)** 或 QQ 群（群号：619164913）发布工单等。下载时候可以使用镜像：[Gitee](https://gitee.com/diaowinner/MuzaiPixel/releases)（别看源码，里头是空的）。  
+Recommend to report issues on **[main GitHub site](https://github.com/DWNfonts/MuzaiPixel)** or QQ group. There's a [Gitee](https://gitee.com/diaowinner/MuzaiPixel/releases) mirror in China.
 ## Overview 概况
 MuzaiPixel (originally called k8x12j) is a 8x12 Chinese and Japanese bitmap (pixel) font based on [k8x12](https://littlelimit.net/k8x12.htm#sample_k8x12). 
 目哉像素（曾用名 k8x12j）是一个基于 [k8x12](https://littlelimit.net/k8x12.htm#sample_k8x12) 的 8x12 中日文点阵（像素）字体。
