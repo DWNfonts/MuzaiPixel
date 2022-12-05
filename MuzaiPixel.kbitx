@@ -13,7 +13,7 @@
 <name id="2" value="Regular"/>
 <name id="3" value="BitsNPicas: MuzaiPixel: 2022"/>
 <name id="4" value="MuzaiPixel"/>
-<name id="5" value="Dec. 4th, 2022 (0.9.9.20221204)"/>
+<name id="5" value="Dec. 5th, 2022 (0.9.9.20221205)"/>
 <name id="6" value="MuzaiPixel"/>
 <name id="7" value="No Trademark."/>
 <name id="8" value="Made with Bits&#39;n&#39;Picas by Kreative Software. Importing by FontForge."/>
@@ -1185,6 +1185,7 @@
 <g u="20255" x="0" y="10" w="8" d="CwcCw/8A/wTD/wD/A8L/AETCAP8CQQJCAUMCQQJBA0bCAP8Cxf8A/wD/AsX/AP8A/wJDwgD/AkEC"/>
 <g u="20256" x="0" y="10" w="8" d="CwcCw/8A/wTD/wD/A8L/AETCAP8CQQJHwgD/AkEDw/8A/wTC/wBEwgD/BMf/AP8A/wD/AkECQQI"/>
 <g u="20260" x="0" y="10" w="8" d="CwcCQgVFxAD/AP8EQgLC/wBCA0ECRsIA/wLF/wD/AP8Cx/8A/wD/AP8Cxf8A/wD/AsL/AEICQg"/>
+<g u="20262" x="0" y="10" w="8" d="CwcCw/8A/wRCwgD/AkIDwv8AQgNDwgD/BMP/AP8Cx/8A/wD/AP8Cwv8AQgPD/wD/BMP/AP8CxP8A/wBE"/>
 <g u="20266" x="0" y="10" w="8" d="CwfDAP8AQgNBAkEDRsQA/wD/AkPCAP8CxP8A/wBCxwD/AP8A/wBCxAD/AP8Cxf8A/wD/AsX/AP8A/wLC/wBCAsL/AA"/>
 <g u="20271" x="0" y="10" w="8" d="CwcCw/8A/wTD/wD/A8L/AETEAP8A/wJDwgD/AsT/AP8ARMQA/wD/AsX/AP8A/wLF/wD/AP8Cxf8A/wD/AsT/AP8ARA"/>
 <g u="20272" x="0" y="10" w="8" d="CwcCQQJBA0ECQQJBA0ECwv8ARgNBAkEDQQLC/wBExAD/AP8Cxf8A/wD/AsX/AP8A/wLE/wD/AEQ"/>
@@ -1416,6 +1417,7 @@
 <g u="20854" x="0" y="10" w="8" d="CwfCAP8Dwv8AR8IA/wNBAkUCQQNBAkUCQQPC/wBHCEEDw/8A/wVB"/>
 <g u="20855" x="0" y="10" w="8" d="CwcBRQJBA0ECRQJBA0ECRQJBA0ECRQhHwgD/A8P/AP8FQQ"/>
 <g u="20856" x="0" y="10" w="8" d="CwcCw/8A/wTD/wD/A0UCQgFCAkUCQgFCAkIBQgFHCEEDw/8A/wVB"/>
+<g u="20857" x="0" y="10" w="8" d="CwfCAP8DQQPD/wD/AkcIQQPD/wD/A0ECyf8A/wD/AP8A/wNBAkEDyP8A/wD/AP8ARAFD"/>
 <g u="20859" x="0" y="10" w="8" d="CwcCQQLC/wBHA0EDRwNBA0cCw/8A/wNBA8n/AP8A/wD/AP8Cw/8A/wNBAkEC"/>
 <g u="20860" x="0" y="10" w="8" d="CwfCAP8Dwv8ARwLD/wD/A0UDwv8AQgFHAsL/AEICRQPD/wD/A0IBQsgA/wD/AP8A/w"/>
 <g u="20861" x="0" y="10" w="8" d="CwfCAP8DQQPD/wD/A0UCxf8A/wD/AkUCxv8A/wD/AEcIRQJBA0ECRQE"/>
@@ -2265,6 +2267,7 @@
 <g u="22949" x="0" y="10" w="8" d="CwcEQgJDBMX/AP8A/wLF/wD/AP8FQQJHAkECQQJCwgD/BUEFwv8AQgFCBEE"/>
 <g u="22952" x="0" y="10" w="8" d="CwfCAP8DQQJBA0ECwv8AR8IA/wLF/wD/AP8CxP8A/wBFAsX/AP8A/wLE/wD/AELDAP8AQsUA/wD/AEICwv8AQg"/>
 <g u="22956" x="0" y="10" w="8" d="CwfDAP8ARMIA/wJBA0ECQQJDwgD/AsT/AP8ARMUA/wD/AEMBQsQA/wD/AsT/AP8AQsMA/wBCxQD/AP8AQgND"/>
+<g u="22958" x="0" y="10" w="8" d="CwfDAP8ARMQA/wD/AsX/AP8A/wJJAUIDwv8AQsMA/wBCwwD/AELGAP8A/wD/Asj/AP8A/wD/AELGAP8A/wD/AkI"/>
 <g u="22962" x="0" y="10" w="8" d="CwfDAP8ARMQA/wD/AsX/AP8A/wJJAUICQgFCAkPCAP8CxP8A/wBEAUIEw/8A/wRBAkQ"/>
 <g u="22969" x="0" y="10" w="8" d="CwfCAP8CQQNBAkEDwv8AQwFDwgD/AsX/AP8A/wLC/wBHAkEDQQJBA8L/AEPHAP8A/wD/AEIDQQI"/>
 <g u="22971" x="0" y="10" w="8" d="CwcDQQNHA8T/AP8ARwPD/wD/AkUEQQNHAkECQQNDAkIDQg"/>
@@ -2289,6 +2292,7 @@
 <g u="23039" x="0" y="10" w="8" d="CwcDQQNBAkQCxf8A/wD/BEEDyf8A/wD/AP8A/wNIAkECQQJCwgD/BUICQwJC"/>
 <g u="23041" x="0" y="10" w="8" d="CwcEw/8A/wRBA0bCAP8CQQNEA8L/AELDAP8ARMMA/wBCAUICQ8IA/wLN/wD/AP8A/wD/AP8A/w"/>
 <g u="23043" x="0" y="10" w="8" d="CwcCQQJBA8L/AEMCQQLC/wBEwgD/AsL/AETGAP8A/wD/AkICQQPC/wBDAkECQQJCAsP/AP8CRA"/>
+<g u="23045" x="0" y="10" w="8" d="CwcBRsYA/wD/AP8Cxv8A/wD/AELHAP8A/wD/AEIBQwFCAUYBQsYA/wD/AP8CyP8A/wD/AP8AQsUA/wD/AEU"/>
 <g u="23047" x="0" y="10" w="8" d="CwdBBEMBQwJBA0ECScUA/wD/AEQBRMQA/wD/AsX/AP8A/wLI/wD/AP8A/wBCxAD/AP8CxP8A/wA"/>
 <g u="23049" x="0" y="10" w="8" d="CwfCAP8DQQLC/wBExQD/AP8ASgFGwgD/BEIBRMIA/wJBA0IBRMIA/wNCBEI"/>
 <g u="23057" x="0" y="10" w="8" d="CwdBA0EExP8A/wBCA0EFQsQA/wD/AkLDAP8AQgNHAkECQQJCwgD/BUICQwJC"/>
@@ -6769,6 +6773,7 @@
 <g u="35830" x="0" y="10" w="8" d="CwdBA0EDw/8A/wJBAkfCAP8Ewv8AQwJBAkEDQQJBA0bCAP8CQQNDwwD/AEMDQQ"/>
 <g u="35831" x="0" y="10" w="8" d="CwdBA0EDwv8AQwVBAkIBQwJBAkEDRsYA/wD/AP8Cwv8AQwLF/wD/AP8CRQFCxQD/AP8A"/>
 <g u="35832" x="0" y="10" w="8" d="CwdBA0EDQQLD/wD/A0MBQgJBA0bEAP8A/wTC/wBEAUMCxP8A/wBEAUMCQwFE"/>
+<g u="35834" x="0" y="10" w="8" d="CwdBAsP/AP8CRgPE/wD/AEICQQNGxAD/AP8Ewv8ARAFDAsX/AP8A/wLC/wBDAkMBRA"/>
 <g u="35835" x="0" y="10" w="8" d="CwdBA0EDRgRBAkcBQgPE/wD/AEIDQsIA/wNGwgD/AkEDQ8MA/wBDA0E"/>
 <g u="35838" x="0" y="10" w="8" d="CwfC/wBFAULEAP8A/wJIxQD/AP8ARsIA/wJBA0bCAP8CQQPC/wBDAkLDAP8AQwJBAg"/>
 <g u="35841" x="0" y="10" w="8" d="CwdBAsP/AP8Cxf8A/wD/BEjCAP8Cwv8ARMYA/wD/AP8Cxf8A/wD/AsL/AETGAP8A/wD/AkPDAP8AQgFE"/>
@@ -8277,7 +8282,7 @@
 <g u="40864" x="0" y="10" w="8" d="CwcDQQXD/wD/AkcHSMUA/wD/AEgHT8YA/wD/AP8"/>
 <g u="63741" x="0" y="9" w="4" d="CQNEAUUBQgFFAUIBRA"/>
 <g u="63742" x="-1" y="10" w="8" d="CwcCw/8A/wNEwgD/AsP/AP8Ew/8A/wJHBUECQ8IA/wLE/wD/AELGAP8A/wD/AkPCAP8Fw/8A/w"/>
-<g u="63743" x="0" y="10" w="16" d="Cw9DAUMBQwFDAsX/AP8A/wNBA0TFAP8A/wBDAUQDxf8A/wD/A0ECQwFDAUMBQw9CAkMBQ8YA/wD/AP8Ey/8A/wD/AP8A/wD/AkPFAP8A/wBDwgD/AkEDw/8A/wNEAUMBQwNB"/>
+<g u="63743" x="0" y="10" w="16" d="Cw9DAUMBQwFDAsX/AP8A/wNBA0TFAP8A/wBDAUQDxf8A/wD/A0ECQwFDAUMBQw9CAkMBQwFDwgD/BMf/AP8A/wD/A0ECQ8UA/wD/AEPCAP8CQQPD/wD/A0QBQwFDAUM"/>
 <g u="65072" x="3" y="7" w="8" d="BQJEAkQ"/>
 <g u="65073" x="3" y="10" w="8" d="DAFM"/>
 <g u="65075" x="-1" y="22" w="0" d="CwFL"/>
