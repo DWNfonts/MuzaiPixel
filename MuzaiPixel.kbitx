@@ -13,7 +13,7 @@
 <name id="2" value="Regular"/>
 <name id="3" value="BitsNPicas: MuzaiPixel: 2022"/>
 <name id="4" value="MuzaiPixel"/>
-<name id="5" value="Dec. 16th, 2022 (0.9.9.20221216)"/>
+<name id="5" value="Dec. 18th, 2022 (0.9.9.20221218)"/>
 <name id="6" value="MuzaiPixel"/>
 <name id="7" value="No Trademark."/>
 <name id="8" value="Made with Bits&#39;n&#39;Picas by Kreative Software. Importing by FontForge."/>
@@ -3037,6 +3037,7 @@
 <g u="24774" x="0" y="10" w="8" d="CwcBRgFCA0TDAP8AS8UA/wD/AEYBQsUA/wD/AEMBQgFGAUIDwv8AQgJC"/>
 <g u="24775" x="0" y="10" w="8" d="CwfCAP8CQQNIAUMBQsUA/wD/AEIBQwJBBsL/AEMCQQNBAkbCAP8CQQPC/wBCAg"/>
 <g u="24778" x="0" y="10" w="8" d="CwfCAP8CQQNIBUoDwv8AQgPC/wBGwgD/AkEDwv8AQwJCxwD/AP8A/wBCAg"/>
+<g u="24779" x="0" y="10" w="8" d="CwfCAP8CQQNJA0PCAP8DQgFEAULFAP8A/wBCxwD/AP8A/wBCA0ECQQPC/wBCwwD/AEIBQw"/>
 <g u="24785" x="0" y="10" w="8" d="CwcEwv8ASARBAkPDAP8AQsIA/wJBAkPDAP8AQgLD/wD/CMb/AP8A/wBCAsL/AEIBQ8IA/w"/>
 <g u="24787" x="0" y="10" w="8" d="CwfCAP8CQQPC/wBDAUPDAP8AQwJBAkfGAP8A/wD/AkIDxP8A/wBDAsX/AP8A/wLD/wD/AsT/AP8ARA"/>
 <g u="24789" x="0" y="10" w="8" d="CwfCAP8CQ8IA/wLC/wBDAkUCwv8AQwJDxAD/AP8Ewv8ARAFCAUPFAP8A/wBCAULJAP8A/wD/AP8AQg"/>
@@ -8413,7 +8414,7 @@
 <g u="40864" x="0" y="10" w="8" d="CwcDQQXD/wD/AkcHSMUA/wD/AEgHT8YA/wD/AP8"/>
 <g u="63741" x="0" y="9" w="4" d="CQNEAUUBQgFFAUIBRA"/>
 <g u="63742" x="-1" y="10" w="8" d="CwcCw/8A/wNEwgD/AsP/AP8Ew/8A/wJHBUECQ8IA/wLE/wD/AELGAP8A/wD/AkPCAP8Fw/8A/w"/>
-<g u="63743" x="0" y="10" w="16" d="Cw9DAUMBQwFDAsX/AP8A/wNBA0TFAP8A/wBDAUQDxf8A/wD/A0ECQwFDAUMBQw9CAkMBQgJDwgD/BEECQQJBA0ECQwJBAkPCAP8CQQRBAsL/AEQBQwFDAUM"/>
+<g u="63743" x="0" y="10" w="16" d="Cw9DAUMBQwFDAsX/AP8A/wNBA0TFAP8A/wBDAUQDxf8A/wD/A0ECQwFDAUMBQw9CAkMBQgJDwgD/BEECQQLF/wD/AP8CQwJBAkPCAP8CQQRBAsL/AEQBQwFDAUM"/>
 <g u="65072" x="3" y="7" w="8" d="BQJEAkQ"/>
 <g u="65073" x="3" y="10" w="8" d="DAFM"/>
 <g u="65075" x="-1" y="22" w="0" d="CwFL"/>
