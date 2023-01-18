@@ -21,8 +21,9 @@ Tool used: 使用工具：[Bits'n'Picas 2.0](http://github.com/kreativekorp/bits
 original 版本像素是方的，如果你的工具没有 bug 的话建议用这个
 * MuzaiPixel (flat).ttf has full-width chars. If there's something wrong with your tool, use that, and use text effect to make it 8x12.  
 flat 版本拉宽到原来的 1.5 倍。如果你的工具有 bug，那就用这个，然后压缩一下。
+
 These fonts cannot install both. They have the same font metadatas.  
-这些字体不能同时安装，他们有共同的元数据
+这些字体不能同时安装，他们有共同的元数据。
 ## Roadmap 道路
 1. 做完《现代汉语常用字表》
 3. 做完国标、通规一级汉字
