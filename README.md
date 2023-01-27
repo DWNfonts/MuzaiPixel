@@ -11,8 +11,8 @@ MuzaiPixel (originally called k8x12j) is a 8x12 Chinese and Japanese bitmap (pix
 
 If you like it, you can see the [Donate](/docs/donate.md) page.  
 如果你喜欢，你可以给我[要个饭](/docs/donate.md)。
-> **请注意：该字体只有少数字形（包括 JIS 第一、二水准汉字，来自原 k8x12 字体；以及部分《现代汉语常用字表》的汉字）。  
-> CAUTION: This font only has few glyphs containing the JIS Kanji level 1 and 2 (from k8x12), and some glyphs in Xiandai Hanyu Changyong Zibiao.**
+> **请注意：这个字体的汉字覆盖率可能不尽人意。  
+> CAUTION: The font has only few glyphs.**
 
 Tool used: 使用工具：[Bits'n'Picas 2.0](http://github.com/kreativekorp/bitsnpicas), [FontForge](http://fontforge.org).
 ## FAQ
@@ -25,11 +25,9 @@ flat 版本拉宽到原来的 1.5 倍。如果你的工具有 bug，那就用这
 These fonts cannot install both. They have the same font metadatas.  
 这些字体不能同时安装，他们有共同的元数据。
 ## Roadmap 道路
-1. 做完《现代汉语常用字表》
-3. 做完国标、通规一级汉字
-4. 做完《现代汉语通用字表》
-5. 做完国标、通规二级汉字
-6. 做完通规三级汉字
+1. 做完国标、通规二级汉字 (1.5)
+4. 做完《现代汉语通用字表》 (1.9)
+6. 做完通规三级汉字 (2.0)
 
 k8x12j 不补全除了简体中文以外的汉字。笔形也不会更改。
 ## Samples 示例
