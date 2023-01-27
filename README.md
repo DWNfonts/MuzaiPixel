@@ -35,4 +35,5 @@ k8x12j 不补全除了简体中文以外的汉字。笔形也不会更改。
 ![Sample in Simplified Chinese](/docs/chusung_11.png)
 
 ### Other languages 其他语种
-![Sample in Simplified Chinese](/docs/Greek.png)
+![Sample in Simplified Chinese](/docs/Greek.png)（待更新）
+![Updated Latin and Greek glyphs](/docs/wA0lwn.png)
