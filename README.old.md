@@ -25,11 +25,8 @@ flat 版本拉宽到原来的 1.5 倍。如果你的工具有 bug，那就用这
 These fonts cannot install both. They have the same font metadatas.  
 这些字体不能同时安装，他们有共同的元数据。
 ## Roadmap 道路
-1. 做完国标、通规二级汉字 (1.5)
-4. 做完《现代汉语通用字表》 (1.9)
-6. 做完通规三级汉字 (2.0)
+**摆烂**
 
-k8x12j 不补全除了简体中文以外的汉字。笔形也不会更改。
 ## Samples 示例
 ### Simplified Chinese 简体中文
 ![Sample in Simplified Chinese](/docs/chusung_11.png)
