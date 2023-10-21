@@ -13,19 +13,20 @@
 <name id="2" value="Regular"/>
 <name id="3" value="BitsNPicas: MuzaiPixel: 2023"/>
 <name id="4" value="MuzaiPixel"/>
-<name id="5" value="&#34;What is version 1.4?&#34; (1.3.20231001)"/>
+<name id="5" value="&#34;Always in Beta.&#34; (1.3.20231021)"/>
 <name id="6" value="MuzaiPixel"/>
 <name id="7" value="No Trademark."/>
-<name id="8" value="Made with Bits&#39;n&#39;Picas by Kreative Software. Importing by FontForge."/>
+<name id="8" value="Made with Bits&#39;n&#39;Picas by Kreative Software. Importing with FontForge."/>
 <name id="9" value="Num Kadoma, diaowinner"/>
 <name id="10" value="a 8x12 bitmap font"/>
-<name id="11" value="https://dwnfonts.github.io/"/>
-<name id="12" value="https://dwnfonts.github.io/"/>
-<name id="14" value="https://dwnfonts.github.io/license.html#muzai_snapshot"/>
+<name id="11" value="https://github.com/DWNfonts"/>
+<name id="12" value="https://github.com/diaowinner"/>
+<name id="13" value="Licensed under SIL OFL 1.1. &#20013;&#25991;&#21442;&#32771;&#65306;https://www.maoken.com/ofl"/>
+<name id="14" value="https://scripts.sil.org/OFL"/>
 <name id="16" value="MuzaiPixel"/>
 <name id="17" value="Regular"/>
 <name id="18" value="MuzaiPixel"/>
-<name id="19" value="&#20108;&#178887;&#33521;&#12289;&#30872;&#21270;&#183160;&#65292;&#36196;&#177837;&#35282;&#19979;&#32511;&#28014;&#182175;&#65307;&#146584;&#27700;&#183843;&#183850;&#33050;&#163833;&#36286;&#65292;&#23391;&#177583;&#21916;&#39135;&#171902;&#171916;&#40060;&#12290;(source: Eric Liu)"/>
+<name id="19" value="&#22269;&#22806;&#30340;&#26376;&#20142;&#37117;&#26159;&#26041;&#30340; &#19968;&#31487;&#23376;&#25171;&#32763;&#19968;&#33337;&#20154; &#36523;&#22312;&#31119;&#20013;&#19981;&#30693;&#31119;"/>
 <name id="20" value="MuzaiPixel"/>
 <name id="21" value="MuzaiPixel"/>
 <name id="22" value="Regular"/>
@@ -1797,6 +1798,7 @@
 <g u="21521" x="0" y="10" w="8" d="CwcDQQVBBEgFQgFDAULFAP8A/wBCxQD/AP8AQsUA/wD/AEIBQwFCBUIEQg"/>
 <g u="21523" x="0" y="10" w="8" d="CwcDR8IA/wLF/wD/AP8CxP8A/wBCxwD/AP8A/wBCxQD/AP8AQsUA/wD/AETCAP8GQQZBBkEC"/>
 <g u="21525" x="0" y="10" w="8" d="CwcBRQJBA0ECQQNBAkUPSAVCBUIFSA"/>
+<g u="21526" x="0" y="10" w="8" d="CwcCQQNFxQD/AP8AQsUA/wD/AELIAP8A/wD/AP8Cxf8A/wD/AsX/AP8A/wJDwgD/BkEGQQZBAg"/>
 <g u="21527" x="0" y="10" w="8" d="CwcDQwFDAsT/AP8AQsUA/wD/AELFAP8A/wBCxQD/AP8AQsUA/wD/AEgDQQJDwgD/BkEFQg"/>
 <g u="21531" x="0" y="10" w="8" d="CwcBRQTD/wD/BMT/AP8ARwPD/wD/AkUDQQZFAUIDQsIA/wNBAkU"/>
 <g u="21533" x="0" y="10" w="8" d="CwcDQQNHwgD/A0EDw/8A/wRDAkIDQghFAkEDQQJBA0ECRQE"/>
@@ -1841,6 +1843,7 @@
 <g u="21599" x="0" y="10" w="8" d="CwcFwv8AQwLE/wD/AEbCAP8Cx/8A/wD/AP8Cwv8AQwFCwgD/AsL/AEMCQQVBBUECQQNE"/>
 <g u="21602" x="0" y="10" w="8" d="CwcDSAJCAUICQgFGAUIDwv8AQsUA/wD/AEIBRsIA/wTD/wD/BMP/AP8DQQJC"/>
 <g u="21603" x="0" y="10" w="8" d="CwcDSAJCAUMBQgFCAkIBRgFCAkIBQwFFAkEDRAZBBUI"/>
+<g u="21606" x="0" y="10" w="8" d="CwcDxP8A/wBCxQD/AP8AQwFGAkTDAP8ARMMA/wBEwwD/AEUCQgLF/wD/AP8CQ8IA/wVC"/>
 <g u="21608" x="0" y="10" w="8" d="CwcBRsQA/wD/AsX/AP8A/wLC/wBExgD/AP8A/wLC/wBGwgD/BML/AETDAP8AQsUA/wD/AEQBQgRC"/>
 <g u="21610" x="0" y="10" w="8" d="CwcDSAJCAUICQgFCAkIBRsMA/wBCxQD/AP8AQgFDAUIFQgTD/wD/A0ECQg"/>
 <g u="21616" x="0" y="10" w="8" d="CwcCQQLE/wD/AEIBQ8IA/wLE/wD/AELDAP8AQgNCCEUCQQNBAkEDQQJBA0ECRQE"/>
@@ -1868,6 +1871,7 @@
 <g u="21654" x="0" y="10" w="8" d="CwcDQQNJAUIBQwFCAUMBQgFDAUIBQwFCAUTEAP8A/wLF/wD/AP8EQwNCAg"/>
 <g u="21657" x="0" y="10" w="8" d="CwcDQQJDwgD/A0nFAP8A/wBCxQD/AP8AQsUA/wD/AELFAP8A/wBDAkICwv8AQgNBAkEDQQJC"/>
 <g u="21658" x="0" y="10" w="8" d="CwcEQQJCAkIBQsUA/wD/AEICQQJCxQD/AP8AQwNDAkECQgNBC0IHwv8A"/>
+<g u="21661" x="0" y="10" w="8" d="CwcDxP8A/wBCxQD/AP8AQ8IA/wJGAULFAP8A/wBDwgD/AkPCAP8CQ8QA/wD/AkUJRQ"/>
 <g u="21666" x="0" y="10" w="8" d="CwdDAUTFAP8A/wBEAUMIRQhHAkEGRAZBBEMB"/>
 <g u="21667" x="0" y="10" w="8" d="CwcEQQJDwwD/AETDAP8AQwJBAknFAP8A/wBCxQD/AP8AQsQA/wD/BMP/AP8Ew/8A/wNBAkI"/>
 <g u="21668" x="0" y="10" w="8" d="CwcEQQJIwgD/A0LCAP8CxP8A/wBDAsX/AP8A/wLE/wD/AEgGQQbD/wD/BEM"/>
@@ -1941,6 +1945,7 @@
 <g u="21811" x="0" y="10" w="8" d="CwcCRwVCAUbCAP8CQwFGxQD/AP8AQgFGxAD/AP8DQQJBAkECw/8A/wNBAkE"/>
 <g u="21816" x="0" y="10" w="8" d="CwcEQQJCxQD/AP8AQwNDAUMBQgVJA8L/AEIIw/8A/wNCAkECwv8AQw"/>
 <g u="21817" x="0" y="10" w="8" d="CwcDxP8A/wBCAUIBRgFDwgD/A0LFAP8A/wBCwgD/AkMBQgFEwgD/BML/AEIFw/8A/wNCwgD/"/>
+<g u="21819" x="0" y="10" w="8" d="CwcEQQJJAkECQgFDAUIBQwFDwwD/AEMCQQJCAUMEQwPF/wD/AP8EQQI"/>
 <g u="21822" x="0" y="10" w="8" d="CwcFwv8ARQLF/wD/AP8Cwv8ARsMA/wBCwwD/AEbDAP8AQgFHBEEGQQRF"/>
 <g u="21824" x="0" y="10" w="8" d="CwcCSALG/wD/AP8ARMIA/wLE/wD/AEbCAP8Cxf8A/wD/AsL/AEMBQwJBAkEDQQJBAsL/AEQ"/>
 <g u="21827" x="0" y="10" w="8" d="CwcEQQJCAUYBQgJJBUIBQwFCxQD/AP8AQgFDBMP/AP8EQwTE/wD/AA"/>
@@ -2021,6 +2026,7 @@
 <g u="21992" x="0" y="10" w="8" d="CwcCw/8A/wJCAkXCAP8DQwFFAUIBQwFGAUIBRsIA/wJFAkEDQQLC/wBCAQ"/>
 <g u="21996" x="0" y="10" w="8" d="CwcDxP8A/wBJxQD/AP8ASgNMAUYBQgJFAkEDQQJBAkI"/>
 <g u="21999" x="0" y="10" w="8" d="CwcCSMMA/wBLwwD/AEUBRQNKB8X/AP8A/wLI/wD/AP8A/wBE"/>
+<g u="22001" x="0" y="10" w="8" d="CwcEQQJCxQD/AP8AScUA/wD/AEIBQwFCAkECSQJBBEUEQQVCAg"/>
 <g u="22005" x="0" y="10" w="8" d="CwcCwv8ARcIA/wJDA8L/AEICRQLC/wBKAUIBQwFEA0LCAP8DQQXC/wBD"/>
 <g u="22007" x="0" y="10" w="8" d="CwcDxP8A/wBGAULDAP8AS8MA/wBLwwD/AEQBQwPC/wBCBcP/AP8DQsIA/w"/>
 <g u="22009" x="0" y="10" w="8" d="CwcCQQLC/wBCAkUDwv8AQwFFAkUCR8MA/wBCAUQDw/8A/wRBBcL/AEM"/>
@@ -2040,6 +2046,7 @@
 <g u="22043" x="0" y="10" w="8" d="CwcEQQNIBULFAP8A/wBJxQD/AP8ATgFGyAD/AP8A/wD/AsT/AP8A"/>
 <g u="22046" x="0" y="10" w="8" d="CwfHAP8A/wD/AETDAP8AQgFJAULFAP8A/wBGAUYBQscA/wD/AP8ARMIA/wLF/wD/AP8Cxf8A/wD/"/>
 <g u="22047" x="0" y="10" w="8" d="CwcDwv8ARMMA/wBLxQD/AP8ASgJMAUMCRAPC/wBCA0QB"/>
+<g u="22050" x="0" y="10" w="8" d="CwcCSgFHAUUBTQFDwgD/AkbCAP8DQQJBA0LCAP8CQQJC"/>
 <g u="22051" x="0" y="10" w="8" d="CwcCxP8A/wBEwwD/AEoFRAFGAUYBRgFCAkIBQgJCAULDAP8AQsIA/w"/>
 <g u="22057" x="0" y="10" w="8" d="CwcDxP8A/wBIAULFAP8A/wBGwwD/AELDAP8ARsMA/wBCAUcEQQRFBEEC"/>
 <g u="22061" x="0" y="10" w="8" d="CwcDQQJGAUPFAP8A/wBFAkIERgFEAUIBRQVBAkEDQsIA/wJCwwD/AA"/>
@@ -2078,6 +2085,7 @@
 <g u="22154" x="0" y="10" w="8" d="CwcEQQJCAUMBQsUA/wD/AEIBQwFCxQD/AP8ASsMA/wBICUUDxP8A/wA"/>
 <g u="22158" x="0" y="10" w="8" d="CwcEQQJJxQD/AP8AQgFDAUoDQwFDAUMBQwPD/wD/A0ECQgNCAg"/>
 <g u="22159" x="0" y="10" w="8" d="CwcEQQJCAUMBQgJBAkoDQwFDAUIBQwFHBMP/AP8Cw/8A/wPC/wBE"/>
+<g u="22162" x="0" y="10" w="8" d="CwcFwv8ASsMA/wBSwwD/AEQCwv8AQ8IA/wRBAkEDxf8A/wD/A0Q"/>
 <g u="22163" x="0" y="10" w="8" d="CwcEQQJKA0MBR8MA/wBDxQD/AP8AQwNIBEEExf8A/wD/A0IC"/>
 <g u="22164" x="0" y="10" w="8" d="CwcEQQJCAUMBQgJBAkoDQwFCAkIBQgFIBMP/AP8Cw/8A/wPC/wBE"/>
 <g u="22176" x="0" y="10" w="8" d="CwcDQQJEAkUCRgFEAsL/AEPDAP8ASwLD/wD/A0QEQwJDwgD/"/>
@@ -4201,6 +4209,7 @@
 <g u="27425" x="0" y="10" w="8" d="CwcDQQNBAkTEAP8A/wJBAsX/AP8A/wRBBkEDQQJBA0ECQQJBAsX/AP8A/wLD/wD/A0EDQQ"/>
 <g u="27426" x="0" y="10" w="8" d="CwcFwv8ARAFCA0IBQgLC/wBDAsP/AP8Cxf8A/wD/AsX/AP8A/wNBAkEDyP8A/wD/AP8AQgFCAkECQQ"/>
 <g u="27427" x="0" y="10" w="8" d="CwcDw/8A/wJCAkLCAP8Cxf8A/wD/A0IBQ8IA/wLF/wD/AP8Cxf8A/wD/AsX/AP8A/wLC/wBCxQD/AP8AQgFCAkECQQ"/>
+<g u="27428" x="0" y="10" w="8" d="CwfCAP8CQQNBAkMBRMQA/wD/A0LCAP8Dwv8ARMIA/wTD/wD/Asf/AP8A/wD/AkLCAP8Cxf8A/wD/A0ECQQ"/>
 <g u="27431" x="0" y="10" w="8" d="CwdDwgD/AkEDRQFCAUPDAP8AQ8IA/wLF/wD/AP8Cwv8AQsUA/wD/AELGAP8A/wD/A8L/AETEAP8A/wNBAkE"/>
 <g u="27442" x="0" y="10" w="8" d="CwfGAP8A/wD/AsT/AP8AQwPD/wD/AkECQsYA/wD/AP8Cx/8A/wD/AP8EQQJDwgD/AsL/AELFAP8A/wBCwwD/AEMCQQ"/>
 <g u="27447" x="0" y="10" w="8" d="CwdBAsP/AP8CQgJDAkLCAP8CQQJGwgD/AkEDxf8A/wD/AsL/AETJAP8A/wD/AP8AQsYA/wD/AP8Cxf8A/wD/"/>
@@ -8955,7 +8964,7 @@
 <g u="40864" x="0" y="10" w="8" d="CwcDQQXD/wD/AkcHSMUA/wD/AEgHT8YA/wD/AP8"/>
 <g u="63741" x="0" y="9" w="4" d="CQNEAUUBQgFFAUIBRA"/>
 <g u="63742" x="-1" y="10" w="8" d="CwcCw/8A/wNEwgD/AsP/AP8Ew/8A/wJHBUECQ8IA/wLE/wD/AELGAP8A/wD/AkPCAP8Fw/8A/w"/>
-<g u="63743" x="0" y="10" w="16" d="Cw9DAUMBQwFDAsX/AP8A/wNBA0TFAP8A/wBDAUQDxf8A/wD/BUQBQwFDAUMPQwFDAUMBQsQA/wD/A8X/AP8A/wLG/wD/AP8AQ8QA/wD/Asf/AP8A/wD/A8P/AP8Cwv8AQwFDAUMBQw"/>
+<g u="63743" x="0" y="10" w="16" d="Cw9DAUMBQwFDAsX/AP8A/wNBA0TFAP8A/wBDAUQDxf8A/wD/BUQBQwFDAUMPQgJDAUMBQgJBAsP/AP8DQQJBAkECxP8A/wBDAkECQQLF/wD/AP8Ewv8AQwFDAUMBQw"/>
 <g u="65072" x="3" y="7" w="8" d="BQJEAkQ"/>
 <g u="65073" x="3" y="10" w="8" d="DAFM"/>
 <g u="65075" x="-1" y="22" w="0" d="CwFL"/>
