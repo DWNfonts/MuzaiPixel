@@ -15,6 +15,8 @@ If you like it, you can see the [Donate](/docs/donate.md) page.
 > CAUTION: The font has only few glyphs.**
 
 Tool used: 使用工具：[Bits'n'Picas 2.0](http://github.com/kreativekorp/bitsnpicas), [FontForge](http://fontforge.org).
+
+新增 [chrcount.py](./chrcount.py)，随时画目哉大饼。
 ## FAQ
 ### Why there are 2 fonts? 为什么有俩字体？
 * MuzaiPixel (original).ttf is tuned for square pixels.  
