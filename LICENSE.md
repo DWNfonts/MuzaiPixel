@@ -8,7 +8,7 @@ Copyright (c) 2014-2021, Num Kadoma (https://littlelimit.net).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://openfontlicense.org
 
 
 -----------------------------------------------------------
@@ -103,7 +103,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 [source](https://www.maoken.com/ofl)
 > **特别声明：**本文为《SIL开源字型授权》（SIL Open Font License，简称《SIL OFL》或《OFL》）的非官方简体中文翻译。本声明并非由 SIL 国际 (SIL International) 发布，也不是采用《OFL》的字型软件的法定发布条款。以《OFL》授权的字型软件发布版本只在使用英语原文条款时有效。  
 但是，我们承认这份非官方翻译可以帮助不熟悉英语的用户和设计师更好地理解《SIL OFL》，并更加容易地在本字型协作设计模式下使用和发布字型家族。如果可以的话，我们鼓励各位设计师在考虑使用《OFL》发布字型创作之前，以母语阅读《常见问题目录》（FAQ）了解详情。  
-请到 https://scripts.sil.org/OFL 查看官方版本和随附《常见问题目录》（FAQ）。
+请到 [https://openfontlicense.org](https://openfontlicense.org) 查看官方版本和随附《常见问题目录》（FAQ）。
 ### 序言
 《开源字型授权》（Open Font License，简称《OFL》）旨在促进全球字型协作项目的共同开发，支持学术及语言学团体对于字型创作的努力，以及提供一个自由开源的基本框架，让字型能在彼此合作的关系中分享与改进。
 
