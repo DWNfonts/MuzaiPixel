@@ -3,7 +3,7 @@
 ![目哉像素体 - k8x12 补简计划](/docs/chusung_03.png)  
 [![QQ 群：619164913](https://img.shields.io/badge/619164913-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/m3j4G5YGsw)
 [![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://diaowinner.itch.io/muzaipixel)
-[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%23946CE6.svg?style=for-the-badge&logoColor=white)](http://afdian.net/a/DWNfonts)  
+[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%23946CE6.svg?style=for-the-badge&logoColor=white)](http://afdian.com/a/DWNfonts)  
 [![旧版自述文档](https://img.shields.io/badge/旧版自述文档-red?style=for-the-badge&logoColor=white)](README.old.md)
 [![SIL OFL 1.1](https://img.shields.io/badge/SIL%20OFL%201.1-%2300A7E1?style=for-the-badge&logoColor=white)](LICENSE.md)
 [![下载](https://img.shields.io/badge/下载-gray.svg?style=for-the-badge&logoColor=white)](https://github.com/DWNfonts/MuzaiPixel/releases)

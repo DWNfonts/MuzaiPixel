@@ -2,7 +2,7 @@
 [< 返回 Back](../README.md)
 
 ## 通过平台
-[爱发电](https://afdian.net/@DWNfonts)  
+[爱发电](https://afdian.com/@DWNfonts)  
 [itch.io](https://diaowinner.itch.io/muzaipixel/purchase)
 
 ## 收款码
